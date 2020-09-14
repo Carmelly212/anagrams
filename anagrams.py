@@ -14,7 +14,7 @@ for word_2 in list_of_words:
     else:
        singles.append([word_2])
 
-#new = singles + [anagrams]
+new = singles + [anagrams]
 
 print (anagrams)
 
