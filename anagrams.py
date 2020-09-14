@@ -16,7 +16,7 @@ for word_2 in list_of_words:
 
 new = singles + [anagrams]
 
-print (anagrams)
+print (new)
 
 
 
